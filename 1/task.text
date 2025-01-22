@@ -1,0 +1,4 @@
+1. Write in lesson.py function m(arr) that get lit of numbers and return mathematical expectation
+2. Write in lesson.py function d(arr) that get lit of numbers and return dispersion
+
+ python -m unittest
