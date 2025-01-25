@@ -1,0 +1,7 @@
+1. Write class that get as parametr string
+2. Add method tag(name), that get as parametr tag name and wraps up added string
+3. Return string when class called in print
+
+Example: 
+decorator = Decorator('test')
+print(decorator.tag('a').tag('b')) shoud print <b><a>test</a></b>
